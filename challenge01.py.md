@@ -73,7 +73,7 @@ def test():
   return result
 ```
 
-Run the test function. If everything worked correctly, the script will print both versions of the string.
+Run the test function. If everything worked correctly, the script will print both versions of the string. For now we are just executing scripts one by one, but I'll try to be consistent about the syntax used to execute and validate each solution in the hopes that somewhere down the line I can hook everything up to a test runner or something.
 
 ```python
 if __name__ == "__main__":

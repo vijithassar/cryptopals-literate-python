@@ -56,7 +56,7 @@ def common():
 ```
 One mistake I made here in an earlier version was that I checked the letters *but not the space*. That screwed up the frequency analysis and resulted in one of the gibberish strings coming out on top. Spaces are an important part of language. 
 
-Now, given a string, count the number of letters -- er, characters, rather, since we are including the space -- which are in the common set.
+Now, given a string, count the number of letters — er, characters, rather, since we are including the space — which are in the common set.
 
 ```python
 def count_common_characters(str):

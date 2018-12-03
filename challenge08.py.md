@@ -67,7 +67,7 @@ def has_duplicate_blocks(item):
   return False
 ```
 
-Apply the duplicate detection to each item in the input set:
+Apply the duplicate detection to each item in the input set.
 
 ```python
 def identify(candidates):

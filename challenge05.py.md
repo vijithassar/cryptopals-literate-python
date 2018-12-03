@@ -27,10 +27,9 @@ This must be another Vanilla Ice lyric, right? Hold on, let me Google it and che
 
 Update: yes.
 
-Import the `decode()` function from the `codecs` module to help with conversion.
+OK then.
 
-
-On top of the `codecs` module, implement a helper function to convert text to bytes.
+First a helper function to convert text to bytes.
 
 ```python
 def ascii_to_bytes(text):
