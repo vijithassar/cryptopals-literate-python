@@ -101,5 +101,6 @@ def test():
 Run the test function. If everything here worked, the console should print the key and the resulting decoded message.
 
 ```python
-test()
+if __name__ == "__main__":
+  test()
 ```
